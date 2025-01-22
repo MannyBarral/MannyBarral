@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Manuel Barral</h1>
 <h3 align="center">A last-year Information Technologies Bachelor's Student</h3>
 
+<p> I am a final-year student at the Faculdade de Ciências da Universidade de Lisboa, pursuing a degree in Information Technology. My main areas of interest are Cybersecurity and Artificial Intelligence, and I am constantly eager to learn and expand my knowledge. Recently, I have been preparing to enter the job market, aiming to make a meaningful impact in a company that challenges me daily and supports my growth by helping me deepen my skills and expertise through those challenges. I am excited about the opportunities ahead and can't wait to get started! </p>
+
 - 🔭 I’m currently working on [Memories, JPA & JavaFX](https://github.com/MannyBarral/MemoriesJPAJFX)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
